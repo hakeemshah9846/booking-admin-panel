@@ -7,8 +7,6 @@
 
 A modern admin panel for managing hotel bookings with beautiful UI and full CRUD functionality, built with React and Tailwind CSS.
 
-![Admin Panel Preview](https://via.placeholder.com/800x400.png?text=Booking+Management+Demo) 
-*Add your screenshot here*
 
 ## 🌟 Features
 
