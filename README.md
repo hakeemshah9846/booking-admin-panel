@@ -46,7 +46,7 @@ The RESTful Booker API doesn't allow direct browser access due to CORS (Cross-Or
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/booking-admin-panel.git
+git clone https://github.com/hakeemshah9846/booking-admin-panel.git
 cd booking-admin-panel
 npm install
 npm run dev
